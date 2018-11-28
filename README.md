@@ -1,6 +1,8 @@
 # Encrypted-Chat-Server-IN-C
 Establish a encrypted connection between client and server in C using OpenSSL
 
+Project Step by Step Guide : https://www.hackanons.com/2018/09/full-duplex-encrypted-chat-server-using.html
+
 First Of All Install OpenSSL
 
 OpenSSL Guide: https://help.ubuntu.com/community/OpenSSL
